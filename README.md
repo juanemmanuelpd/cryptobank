@@ -28,4 +28,5 @@ Multi-user. Each user has the option to deposit and withdraw ETH in this smart c
 * maxBalance - Shows the maximum ETH balance limit allowed for all users.
 * userBalance - Displays the total balance of each user.
 
+  CODE IS LAW!
 
