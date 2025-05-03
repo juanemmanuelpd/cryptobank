@@ -1,6 +1,6 @@
 # Cryptobank
 ## Overview 🪙
-Multi-user. Each user has the option to deposit and withdraw ETH in this smart contract, but only the owner can set the maximum amount of ETH each user can have in their account.
+Multi-user. Each user has the option to deposit and withdraw ETH in this smart contract, but only the admin can set the maximum amount of ETH each user can have in their account.
 ## Features 📃
 * Multiuser – Supports secure deposits and withdrawals from multiple users.
 * Customizable balance limit - Only the smart contract admin will be able to set the maximum ETH limit for all users' accounts.
