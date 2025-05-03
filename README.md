@@ -20,4 +20,12 @@ Multi-user. Each user has the option to deposit and withdraw ETH in this smart c
 * function depositETH() - Deposit ETH from your account whenever you want. This cryptobank will hold it for you.
 * function withdrawETH - Withdraw all or part of the ETH you have saved without complications and instantly.
 * function modifyMaxBalance - Only the administrator of this smart contract will be able to modify the limit of the balance that each user can have saved in this bank.
+## Contract interface details 📌
+* depositETH - Deposit ETH from your account to the smart contract.
+* modifyMaxBalance - Set a new balance limit for each user with assets in the cryptobank.
+* withdrawETH - Withdraw ETH from the cryptobank safely from your account.
+* admin - Displays the address of the user who owns this smart contract.
+* maxBalance - Shows the maximum ETH balance limit allowed for all users.
+* userBalance - Displays the total balance of each user.
+
 
